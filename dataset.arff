@@ -1,0 +1,13 @@
+@relation placement
+@attribute cgpa numeric
+@attribute projects numeric
+@attribute programming {low,medium,high}
+@attribute internship {yes,no}
+@attribute placement {yes,no}
+@data
+8.5,3,high,yes,yes
+7.0,2,medium,no,no
+9.0,4,high,yes,yes
+6.5,1,low,no,no
+8.0,3,medium,yes,yes
+7.2,2,medium,no,no
